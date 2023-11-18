@@ -1,4 +1,4 @@
 # Algorithms-Exercises
-Contains my solution for the labeled ' hard ' exercises for the subject "Algorithms and Complexity" (CS380)
+Contains my solution for some exercises for the subject "Algorithms and Complexity"
 
-## PS: The exercises brief is not uploaded because it is in Greek.
+## PS: The exercises brief is not uploaded.
